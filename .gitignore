@@ -16,4 +16,4 @@ profiles.clj
 # Custom
 figwheel_server.log
 .cljs_rhino_repl
-
+.DS_Store
